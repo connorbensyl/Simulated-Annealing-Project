@@ -1,5 +1,5 @@
 import numpy as np
-
+#Connor Bensyl, CS461 Assignment 2
 suites = np.empty(shape=(50, 4))
 compatibility = np.empty(shape=(200, 200))
 input = open("roommates.txt", 'r')
